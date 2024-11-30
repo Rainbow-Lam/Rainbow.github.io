@@ -1,5 +1,3 @@
-# Lam Yee Ling Rainbow 
-
 ## Education
 **B.A.** Psychology Specialist, 
 University of Toronto, *May 2026 (Expected)*
