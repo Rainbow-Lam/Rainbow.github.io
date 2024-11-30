@@ -1,35 +1,27 @@
----
-permalink: /
-title: "Colin's Website"
----
-
-# About me 👋 
-Hi everyone, my name is Colin 😊 I'm a second-year PhD student in the social and personality psychology program at the University of Toronto 🍁
-
-## Research Interests
-- Prejudice and Discrimination 😒
-- Diversity and Representation 🧑🏿‍🤝‍🧑🏻🌎
-- LGBTQ+ 🌈
-- Mental Well-being 😄
-- Measurement 📏
+# Lam Yee Ling Rainbow 
 
 ## Education
-**Ph.D.** Social-Personality Psychology  
-University of Toronto *May 2027 (Expected)*
-
-**M.A.** General-Experimental Psychology  
-Wake Forest University *May 2023*			        		
-
-**B.A.** Psychology (Honors)  
-University at Buffalo, SUNY *May 2020*
-
+**B.A.** Psychology Specialist, 
+University of Toronto, *May 2026 (Expected)*
 
 ## Projects in Preparation
-### What Types of Representation Do Marginalized Group Members Value More?
+### How the effect of self-esteem on relationship satisfaction differs between gender?
+**Objectives:**
+- The sociometer theory suggests that self-esteem does not only reflect a person's perceived self-worth, but also helps individuals to estimate their social acceptance within their relationships 
+- Women are more sensitive to social acceptance cues, which makes them more easily infleunced by self-esteem in personal relationship
+- Based on the sociometer theory, it is hypothesized that women will be more affected by self-esteem in their ratings for relationship satisfaction 
+- The study aim to explore the interaction between self-esteem and gender in predicting relationship satisfaciton
 
-- We found that when marginalized group members talk about representation, they either refer to someone who shares their identity and/or someone who shares their values
-- So we developed a scale to measure identity-based and values-based representation and validated it in a workplace context
-- Both types of representation are correlated with well-being and performance outcomes
+**Approach:**
+- The data is collected from an open-source dataset from *PlosOne* by Wang (2015)
+- A total of 104 Chinese college students were recruited, and they completed surveys assessing self-esteem, relationship satisfaction, power, and authenticity (i.e. how consistently one behave according to their true desires while interacting with others)
+
+**Findings:**
+- I tested how self-esteem and gender predicts relationship satisfaction by using multiple regression
+- There is no gender differnece in how self-esteem predicts relationship satisfaction, which is agains the original hypothesis
+- This shows that women are not more affected by self-esteem in personal reltionahips 
+
+ 
 ![rep](/assets/img/rep.png)
 - Interestingly, people generally see more colleagues and leaders who embody their core values than the ones who share their identity
 - However, only those who identify as stigmatized report seeing less identity-based representation, whereas non-stigmatized people see equal levels of identity and values-based representation
