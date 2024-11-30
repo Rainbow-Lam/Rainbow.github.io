@@ -12,7 +12,6 @@ University of Toronto, *May 2026 (Expected)*
 
 **Approach:**
 - The data is collected from an open-source dataset from *PlosOne* by Wang (2015)
-  https://plos.figshare.com/articles/dataset/_Authenticity_and_Relationship_Satisfaction_Two_Distinct_Ways_of_Directing_Power_to_Self_Esteem_/1629697
 - A total of 104 Chinese college students were recruited, and they completed surveys assessing self-esteem, relationship satisfaction, power, and authenticity (i.e. how consistently one behave according to their true desires while interacting with others)
 
 **Findings:**
@@ -28,4 +27,8 @@ University of Toronto, *May 2026 (Expected)*
 **Implications**
 - The result contradicts with the original hypothesis, which shows that gender does not affect self-esteem
 - Since all the participants in this study is Chinese, this might suggest that the sociometer theory is less applicable in non-western samples
-- This results calls for future research testing the sociometer theory in different cultural contexts and bigger sample sizes 
+- This results calls for future research testing the sociometer theory in different cultural contexts and bigger sample sizes
+
+**References:**
+- Dataset: https://plos.figshare.com/articles/dataset/_Authenticity_and_Relationship_Satisfaction_Two_Distinct_Ways_of_Directing_Power_to_Self_Esteem_/1629697
+- Analytic code: https://github.com/Rainbow-Lam/project/blob/main/My-project.md
