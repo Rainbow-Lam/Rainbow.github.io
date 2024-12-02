@@ -29,6 +29,6 @@ University of Toronto, *May 2026 (Expected)*
 - Since all the participants in this study is Chinese, this might suggest that the sociometer theory is less applicable in non-western samples
 - This results calls for future research testing the sociometer theory in different cultural contexts and bigger sample sizes
 
-**References:**
+**Resources:**
 - Dataset: https://plos.figshare.com/articles/dataset/_Authenticity_and_Relationship_Satisfaction_Two_Distinct_Ways_of_Directing_Power_to_Self_Esteem_/1629697
 - Analytic code: https://github.com/Rainbow-Lam/project/blob/main/My-project.md
